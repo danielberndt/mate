@@ -1,0 +1,26 @@
+{
+  "name": "mate",
+  "version": "0.1.0",
+  "description": "Mate",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register \"./src/**/__tests__/**/*.js\""
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Daniel Berndt",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^5.5.6",
+    "babel-eslint": "^3.1.15",
+    "babel-loader": "^5.1.4",
+    "eslint": "^0.22.1",
+    "eslint-loader": "^0.12.0",
+    "eslint-plugin-react": "^2.5.0",
+    "expect": "^1.6.0",
+    "jsdom": "^3.1.2",
+    "mocha": "^2.2.5",
+    "react": "^0.13.3",
+    "webpack": "^1.9.10"
+  }
+}
