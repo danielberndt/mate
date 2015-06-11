@@ -18,16 +18,16 @@ _work in progress_
 
 ## Todos
 
- - api-description-normaliser
-   - tests
- - models
-   - research properties
-   - register calls
-   - model updated data / update dependencies
- - collections
- - sketch out (mockable) api-http-layer interface
- - optimisic changes queue (associated with request)
- -
+ - [x] api-description-normaliser
+   - [x] tests
+ - [ ] models
+   - [ ] research properties
+   - [ ] register calls
+   - [ ] model updated data / update dependencies
+ - [ ] collections
+ - [ ] sketch out (mockable) api-http-layer interface
+ - [ ] optimisic changes queue (associated with request)
+ - [ ] ... and much more
 
 
 
